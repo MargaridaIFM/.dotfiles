@@ -1,6 +1,7 @@
 
 # Aliases
 alias code="flatpak run com.visualstudio.code"
+alias src="source ~/.zshrc"
 alias ccf='cc -Wall -Wextra -Werror'
 alias ga="git add"
 alias gst="git status"
